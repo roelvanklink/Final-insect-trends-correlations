@@ -7,7 +7,7 @@ Data files: (folder Data)
 - Fulldata allgroups.rds
 Dataframe used for the analysis in 'simple_correlations_brms_restgroups.R'. It was compiled using the script 'compile Data for analysis.R'
 
--Fulldata allorders.rds
+- Fulldata allorders.rds
 Dataframe used for the analysis at the order level ('simple_correlations_brms.R'). It was compiled using the script 'compile Data for analysis.R'
 
 
@@ -15,7 +15,7 @@ Dataframe used for the analysis at the order level ('simple_correlations_brms.R'
 
 
 R files
--compile Data for analysis.R 
+- compile Data for analysis.R 
 This script compiles the data from the KNB repository and selects the data useful for the current analysis. Note that the data from Greenland need to be compiled separately (see below).  
 
 - map.R 
